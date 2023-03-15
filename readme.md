@@ -5,11 +5,9 @@
 > ## _This is my image-slider Project, I made it using HTML, CSS and Javascript._ [**Watch Live**](https://image-slider2044.netlify.app/ "This is netlify live links")
 
 <br/>
-<br/>
 
 # [![badge](https://img.shields.io/badge/Image--Slider-Click%20Me-informational)](https://image-slider2044.netlify.app/ "This is netlify live links")
 
-<br/>
 <br/>
 
 
@@ -19,7 +17,6 @@
 ![This is an image](./images/Image-Slider-Project-front-page1.png)
 ![This is an image](./images/Image-Slider-Project-front-page2.png)
 
-<br/>
 <br/>
 
 ## **Let's Connect**
