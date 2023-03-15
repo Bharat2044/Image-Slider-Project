@@ -55,7 +55,7 @@ button {
         height: 200px;
         width: 250px;
         position: relative;
-        top: -30px;
+        top: 20px;
     }
     button {
         padding: 8px;
@@ -63,6 +63,6 @@ button {
         font-weight: 500;
         margin-top: 8px;
         position: relative;
-        top: -30px;
+        top: 20px;
     }
 }
