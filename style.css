@@ -23,8 +23,6 @@ h1 {
 img {
     height: 300px;
     width: 380px;
-    position: relative;
-    top: -30px;
     border-radius: 20px;
     box-shadow: 0 0 5px rgb(112, 162, 27);
 }
@@ -39,8 +37,6 @@ button {
     cursor: pointer;
     margin-top: 10px;
     box-shadow: 0 0 8px hotpink;
-    position: relative;
-    top: -30px;
 }
 
 
@@ -58,11 +54,15 @@ button {
     img {
         height: 200px;
         width: 250px;
+        position: relative;
+        top: -30px;
     }
     button {
         padding: 8px;
         font-size: 20px;
         font-weight: 500;
         margin-top: 8px;
+        position: relative;
+        top: -30px;
     }
 }
